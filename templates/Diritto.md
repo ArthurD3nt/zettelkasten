@@ -1,0 +1,4 @@
+# {{title}}
+
+---
+#Diritto {{date}}
