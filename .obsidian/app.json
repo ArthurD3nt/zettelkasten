@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "attachments",
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTime"
+}

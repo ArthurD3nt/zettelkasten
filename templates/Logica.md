@@ -1,4 +1,0 @@
-# {{title}}
-
----
-#Logica {{date}}

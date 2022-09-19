@@ -1,4 +1,0 @@
-# {{title}}
-
----
-#DB #SQL {{date}}
