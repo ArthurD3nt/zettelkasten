@@ -1,3 +1,3 @@
 # zettelkasten
 Appunti di Francesco Mazzucco
-Se il nom
+Se il nome ti confonde, guarda [qua](https://en.wikipedia.org/wiki/Zettelkasten)
