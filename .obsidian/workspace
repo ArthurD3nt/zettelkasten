@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ded50b883b81c412",
-        "type": "split",
-        "children": [
-          {
-            "id": "cfc8507bcfce0ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "addfdd84a1e018d6"
-          },
-          {
-            "id": "1e8cfd1eafcae283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "addfdd84a1e018d6"
+        "id": "cfc8507bcfce0ea8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTML.md",
+            "mode": "source",
+            "source": true
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
