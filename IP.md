@@ -3,5 +3,7 @@
 
 ![[Pasted image 20220919154558.png]]
 
+I nomi vengono tradotti in IP da un [[DNS]]
+
 ---
 #TWEB 2022-09-19

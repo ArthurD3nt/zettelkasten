@@ -9,7 +9,7 @@ Esistono vari protocolli come [[TCP]]/[[UDP]] che di suddividono ulteriormente i
 
 ## Web vs Internet
 
-Il **Web** è una collezione di siti e pagine web distribuiti nel mondo
+Il **Web** è una collezione di siti e [[URL | pagine]] web distribuiti nel mondo
 **Internet** è qualcosa di molto più grande che include altri servizi come le email, la chat, i giochi on line, etc.
 
 ## Caratteristiche principali

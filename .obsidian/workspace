@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "471bc0630ce54984",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "OOP.md",
-            "mode": "source",
-            "source": true
+        "id": "ded50b883b81c412",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfc8507bcfce0ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "addfdd84a1e018d6"
+          },
+          {
+            "id": "1e8cfd1eafcae283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "addfdd84a1e018d6"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -61,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5055618286133
+    "width": 197.50556182861328
   },
   "right": {
     "id": "fd3b3ea498cdca73",
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP.md"
+                "file": "HTML.md"
               }
             }
           },
@@ -129,25 +150,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.6643371582031,
-    "collapsed": true
+    "width": 256.6644287109375
   },
-  "active": "471bc0630ce54984",
+  "active": "cfc8507bcfce0ea8",
   "lastOpenFiles": [
-    "teorema_di_decomposizione.md",
-    "README.md",
-    "UDP.md",
-    "attributi_estranei.md",
+    "HTTP.md",
     "Internet.md",
+    "HTML.md",
+    "query_string.md",
+    "URL.md",
+    "Port.md",
+    "Anchor.md",
+    "templates/TWeb.md",
     "IP.md",
-    "TCP.md",
-    "templates/PROG3.md",
-    "templates/IUM.md",
-    "templates/Reti.md"
+    "DNS.md"
   ]
 }
