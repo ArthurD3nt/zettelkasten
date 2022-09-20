@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "OOP.md",
             "mode": "source",
             "source": true
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5055618286133
   },
   "right": {
     "id": "fd3b3ea498cdca73",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OOP.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "471bc0630ce54984",
   "lastOpenFiles": [
+    "teorema_di_decomposizione.md",
+    "README.md",
     "UDP.md",
     "attributi_estranei.md",
     "Internet.md",
@@ -146,8 +148,6 @@
     "TCP.md",
     "templates/PROG3.md",
     "templates/IUM.md",
-    "templates/Reti.md",
-    "templates/TWeb.md",
-    "README.md"
+    "templates/Reti.md"
   ]
 }
