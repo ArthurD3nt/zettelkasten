@@ -1,7 +1,9 @@
 # Anchor
 > Permettono di saltare direttamente ad una determinata sezione
 
-![[Pasted image 20220920144025.png]]
+```url
+http://www.textpad.com/download/index.html#downloads
+```
 
 **Cosa fa:**
 1. Reupera `index.html`

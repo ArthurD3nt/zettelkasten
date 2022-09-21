@@ -4,5 +4,6 @@
   "livePreview": false,
   "vimMode": true,
   "promptDelete": false,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true
 }

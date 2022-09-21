@@ -1,7 +1,9 @@
 # Query string
 > Insieme di parametri passati a un eseguibile
 
-![[Pasted image 20220920144348.png]]
+```url
+http://www.google.com/search?q=miserable+failure&start=10
+```
 
 **Cosa fa:**
 1. Al paramero `q` viene passata la stringa `miserable failure`

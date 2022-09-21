@@ -5,8 +5,8 @@
 ![[Pasted image 20220920143729.png]]
 
 ## Advanced
-- [[Anchor]]
-- [[Port]]
+- [[anchor | Anchor]]
+- [[port | Port]]
 - [[query_string | Query string]]
 
 ---

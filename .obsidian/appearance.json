@@ -1,7 +1,7 @@
 {
-  "interfaceFontFamily": "Misc Tamsyn",
-  "textFontFamily": "Misc Tamsyn",
-  "monospaceFontFamily": "Tamsyn",
-  "cssTheme": "Things",
+  "interfaceFontFamily": "CodeNewRoman Nerd Font",
+  "textFontFamily": "CodeNewRoman Nerd Font",
+  "monospaceFontFamily": "CodeNewRoman Nerd Font Mono",
+  "cssTheme": "Big Sur Aesthetic",
   "theme": "moonstone"
 }
