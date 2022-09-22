@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "a70a43a8f85042cc",
+        "id": "cf75284b17ecc5c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet.md",
+            "file": "overriding.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "ac01de554ff10bb4"
+        "group": "3b7d89ba2941d5ff"
       },
       {
-        "id": "10a6a4f90100c0ac",
+        "id": "722ce6687a08d7e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet.md",
+            "file": "overriding.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "ac01de554ff10bb4"
+        "group": "3b7d89ba2941d5ff"
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet.md",
+                "file": "overriding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet.md",
+                "file": "overriding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet.md"
+                "file": "overriding.md"
               }
             }
           },
@@ -151,17 +151,17 @@
     "width": 256.6644287109375,
     "collapsed": true
   },
-  "active": "10a6a4f90100c0ac",
+  "active": "cf75284b17ecc5c9",
   "lastOpenFiles": [
+    "casting.md",
+    "polimorfismo.md",
+    "ereditarieta.md",
+    "type_checking_dinamico.md",
+    "type_checking_statico.md",
+    "Internet.md",
     "HTML.md",
     "HTTP.md",
     "attributi_estranei.md",
-    "Internet.md",
-    "UDP.md",
-    "OOP.md",
-    "DNS.md",
-    "URL.md",
-    "anchor.md",
-    "port.md"
+    "UDP.md"
   ]
 }
