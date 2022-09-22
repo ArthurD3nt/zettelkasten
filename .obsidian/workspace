@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "78d26cb8cd2d1763",
+        "id": "a70a43a8f85042cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML.md",
+            "file": "Internet.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "ac01de554ff10bb4"
+      },
+      {
+        "id": "10a6a4f90100c0ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Internet.md",
             "mode": "preview",
             "source": true
           }
-        }
+        },
+        "group": "ac01de554ff10bb4"
       }
     ],
     "direction": "vertical"
@@ -61,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158.5107650756836
+    "width": 158.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "fd3b3ea498cdca73",
@@ -77,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML.md",
+                "file": "Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md"
+                "file": "Internet.md"
               }
             }
           },
@@ -136,10 +151,10 @@
     "width": 256.6644287109375,
     "collapsed": true
   },
-  "active": "78d26cb8cd2d1763",
+  "active": "10a6a4f90100c0ac",
   "lastOpenFiles": [
-    "HTTP.md",
     "HTML.md",
+    "HTTP.md",
     "attributi_estranei.md",
     "Internet.md",
     "UDP.md",
