@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d473d47b7d71a2a6",
+        "id": "c63c5f68a8d28248",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "protocolli.md",
+            "file": "human_centered_computer_interaction.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "a1c1600b1e705a20"
+        "group": "6fefff2762e92262"
       },
       {
-        "id": "567481aca8b6bf23",
+        "id": "0f9e6664bd64892e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "protocolli.md",
+            "file": "human_centered_computer_interaction.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "a1c1600b1e705a20"
+        "group": "6fefff2762e92262"
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolli.md",
+                "file": "human_centered_computer_interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocolli.md",
+                "file": "human_centered_computer_interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocolli.md"
+                "file": "human_centered_computer_interaction.md"
               }
             }
           },
@@ -152,10 +152,10 @@
     "width": 256.6644287109375,
     "collapsed": true
   },
-  "active": "d473d47b7d71a2a6",
+  "active": "0f9e6664bd64892e",
   "lastOpenFiles": [
-    "Internet.md",
     "protocolli.md",
+    "Internet.md",
     "overriding.md",
     "casting.md",
     "polimorfismo.md",
