@@ -21,7 +21,7 @@ Il **Web** è una collezione di siti e [[URL | pagine]] web distribuiti nel mond
 
 ## Nuts and bolts
 - [[devices | Devices]]
-- [[packet_switches | Packet switches]]
+- [[packet_switching | Packet switches]] or [[circuit_swithing | Circuit switching]]
 - [[communication_links | Communication links]]
 - [[networks | Networks]]
 
