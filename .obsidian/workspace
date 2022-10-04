@@ -7,8 +7,12 @@
         "id": "ff91115512dabbac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "protocolli.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "protocolli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "protocolli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "protocolli.md"
+              }
             }
           },
           {
@@ -129,6 +137,8 @@
   },
   "active": "ff91115512dabbac",
   "lastOpenFiles": [
+    "overriding.md",
+    "casting.md",
     "search_in_binary_search_tree.md",
     "circuit_swithing.md",
     "Internet.md",
@@ -136,8 +146,6 @@
     "network_core.md",
     "router.md",
     "packet.md",
-    "packet_switches.md",
-    "protocolli.md",
-    "casting.md"
+    "packet_switches.md"
   ]
 }
