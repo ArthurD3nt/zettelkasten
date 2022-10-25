@@ -3,5 +3,6 @@
   "textFontFamily": "CodeNewRoman Nerd Font",
   "monospaceFontFamily": "CodeNewRoman Nerd Font Mono",
   "cssTheme": "Yin and Yang",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }

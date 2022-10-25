@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "b825324a8d9e451b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a3fdd85346df44d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff91115512dabbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protocolli.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "006597d3188e38d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc6419fdc9f16c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d14803c0311052",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "c92389be49072f06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "proto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "129372f0955bb13d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.0319366455078
+  },
+  "right": {
+    "id": "fd3b3ea498cdca73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db029d64162d8a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147c2918926961e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "protocolli.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940c14c439ef3cc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "protocolli.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3748f03d43a5eee0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28e4ff02b493e91f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "protocolli.md"
+              }
+            }
+          },
+          {
+            "id": "d14e43ff6580bb1b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.6644287109375
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ff91115512dabbac",
+  "lastOpenFiles": [
+    "overriding.md",
+    "casting.md",
+    "search_in_binary_search_tree.md",
+    "circuit_swithing.md",
+    "Internet.md",
+    "packet_switching.md",
+    "network_core.md",
+    "router.md",
+    "packet.md",
+    "packet_switches.md"
+  ]
+}
