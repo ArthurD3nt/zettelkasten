@@ -11,5 +11,14 @@ Flutter usa `final` come keyword, modificare il suo valore successivamente da er
 ![[Pasted image 20221025114350.png]]
 [[type | Type]] inference automatica
 
+## String concatenation
+> The official Dart guidelines suggest to prefer using interpolation to compose strings, which is shorter and cleaner:
+> ![[Pasted image 20221025152758.png]]
+
+>Since strings are immutable, making too many concatenations with the + operator might be ineficfient. In such cases it’d be better if you used a StringBuffer which efficiently concatenates strings.
+> ![[Pasted image 20221025152941.png]]
+
+
+
 ---
 #IUM #flutter 2022-10-25
