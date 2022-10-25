@@ -17,10 +17,24 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "878f3f1054719277"
           },
           {
-            "id": "16d2bd5f42b402ec",
+            "id": "9cbb118cd71a8e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "78874bd421c6ca8c"
+          },
+          {
+            "id": "141d2b6240f224b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,9 +43,57 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "eecc1f2b6c857d55"
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "42d3624f0a4ac376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9180fe6d5f7081f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variables.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "878f3f1054719277"
+          },
+          {
+            "id": "1877d972605a194b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "78874bd421c6ca8c"
+          },
+          {
+            "id": "340946bfdb7a1e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "type.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "eecc1f2b6c857d55"
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proto",
+                "query": "#flutter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables.md",
+                "file": "type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables.md",
+                "file": "type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables.md"
+                "file": "type.md"
               }
             }
           },
@@ -160,8 +222,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "650873505bfb310e",
+  "active": "141d2b6240f224b9",
   "lastOpenFiles": [
+    "Arrays.md",
     "type.md",
     "Variables.md",
     "templates/Flutter.md",
@@ -170,7 +233,6 @@
     "assioma_di_transitività.md",
     "assioma_dell_unione.md",
     "Internet.md",
-    "packet_switching.md",
-    "circuit_swithing.md"
+    "packet_switching.md"
   ]
 }

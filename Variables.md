@@ -19,6 +19,5 @@ Flutter usa `final` come keyword, modificare il suo valore successivamente da er
 > ![[Pasted image 20221025152941.png]]
 
 
-
 ---
 #IUM #flutter 2022-10-25
