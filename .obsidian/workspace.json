@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3fdd85346df44d",
+        "id": "2ed799d34fd3a03e",
         "type": "tabs",
         "children": [
           {
-            "id": "ff91115512dabbac",
+            "id": "650873505bfb310e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocolli.md",
-                "mode": "preview",
+                "file": "Variables.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "16d2bd5f42b402ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "type.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.0319366455078
+    "width": 251.0319366455078,
+    "collapsed": true
   },
   "right": {
     "id": "fd3b3ea498cdca73",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolli.md",
+                "file": "Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocolli.md",
+                "file": "Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocolli.md"
+                "file": "Variables.md"
               }
             }
           },
@@ -141,22 +154,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.6644287109375
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff91115512dabbac",
+  "active": "650873505bfb310e",
   "lastOpenFiles": [
-    "overriding.md",
-    "casting.md",
-    "search_in_binary_search_tree.md",
-    "circuit_swithing.md",
+    "type.md",
+    "Variables.md",
+    "templates/Flutter.md",
+    "templates/IUM.md",
+    "templates/PROG3.md",
+    "assioma_di_transitività.md",
+    "assioma_dell_unione.md",
     "Internet.md",
     "packet_switching.md",
-    "network_core.md",
-    "router.md",
-    "packet.md",
-    "packet_switches.md"
+    "circuit_swithing.md"
   ]
 }
