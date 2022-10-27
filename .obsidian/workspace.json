@@ -45,9 +45,17 @@
               }
             },
             "group": "eecc1f2b6c857d55"
+          },
+          {
+            "id": "9beac7e2fa25223d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "42d3624f0a4ac376",
@@ -160,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "type.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,10 +226,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "141d2b6240f224b9",
+  "active": "9beac7e2fa25223d",
   "lastOpenFiles": [
-    "Arrays.md",
     "type.md",
+    "Arrays.md",
     "Variables.md",
     "templates/Flutter.md",
     "templates/IUM.md",
