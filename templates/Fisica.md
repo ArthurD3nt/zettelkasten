@@ -1,4 +1,3 @@
-# {{title}}
 
 ---
 #Fisica {{date}}

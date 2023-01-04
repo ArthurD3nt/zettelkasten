@@ -1,4 +1,3 @@
-# {{title}}
 
 ---
 #reti {{date}}
