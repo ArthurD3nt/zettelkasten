@@ -17,7 +17,7 @@
 		<script src="my_jquery_functions.js"></script>  
 	</head>
 	```
-- 5
+- 
 
 ---
 #TWEB #JS 
