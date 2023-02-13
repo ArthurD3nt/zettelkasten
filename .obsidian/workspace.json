@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7378cc1ab1194365",
+        "id": "8967dcb2f89706cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4c53a6d9a6389670",
+            "id": "7c107fc14d615eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JQuery.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "693a0487eba14e63"
-          }
-        ]
-      },
-      {
-        "id": "eac724ce4d845e2b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "344e4af4ad151537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JQuery.md",
+                "file": "selezione.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "693a0487eba14e63"
+            }
           }
         ]
       }
@@ -89,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.0319366455078
+    "width": 200
   },
   "right": {
     "id": "fd3b3ea498cdca73",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JQuery.md",
+                "file": "selezione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JQuery.md",
+                "file": "selezione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JQuery.md"
+                "file": "selezione.md"
               }
             }
           },
@@ -175,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "344e4af4ad151537",
+  "active": "7c107fc14d615eac",
   "lastOpenFiles": [
+    "Variables.md",
+    "assioma_di_transitività.md",
+    "JQuery.md",
     "DOM.md",
     "Valori variabili di default.md",
     "human_centered_computer_interaction.md",
     "templates/Js.md",
     "Gestione eventi bad vs good.md",
     "templates/Fisica.md",
-    "templates/TWeb.md",
-    "templates/Reti.md",
-    "templates/IUM.md",
-    "templates/PROG3.md"
+    "templates/TWeb.md"
   ]
 }
